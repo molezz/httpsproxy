@@ -7,3 +7,5 @@
 ```
 cargo run -- 10000 user pass
 ```
+
+httpsproxy 10000 user pass
